@@ -7,6 +7,7 @@ public class ClassBranche1 {
 		
 		System.out.println("Premiere branche1");
 		System.out.println("deuxieme branche2");
+		System.out.println("troisieme branche3");
 
 	}
 
