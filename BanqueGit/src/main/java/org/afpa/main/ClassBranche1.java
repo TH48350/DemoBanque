@@ -9,6 +9,7 @@ public class ClassBranche1 {
 		System.out.println("deuxieme branche2");
 		System.out.println("troisieme branche3");
 		System.out.println("Branche developpeur1");
+		System.out.println("Branche developpeur2");
 	}
 
 }
